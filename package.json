@@ -1,0 +1,15 @@
+{
+  "name": "contracts",
+  "version": "1.0.0",
+  "description": "NFT Contracts",
+  "main": "index.js",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.9.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "remixd:start": "remixd -s . --remix-ide https://remix.ethereum.org"
+  },
+  "author": "",
+  "license": "MIT"
+}
